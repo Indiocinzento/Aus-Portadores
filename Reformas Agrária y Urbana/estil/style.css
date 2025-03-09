@@ -9,33 +9,54 @@ div {
 }
 section {
     width: 900px;
-    background-color: rgb(77, 75, 75);
+    background-color: rgb(105, 103, 103);
     justify-content: center;
     margin: auto;
     margin-top: 20px;
+    margin-bottom: 20px;
     text-align: justify;
     padding: 10px 10px;
     border-radius: 20px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.322);
+}
+img.rau {
+    width: 650px;
+    padding: 5px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.322);
 }
 h1 {
     font-size: 1.8em;
     color: rgb(80, 187, 80);
     text-align: center;
 }
+h2 {
+    color: rgb(26, 105, 26);
+    text-align: center;
+}
+h3 {
+    color: rgb(26, 105, 26);
+    text-align: center;
+}
 p {
     font-family: 1.5em;
-    color: rgb(197, 179, 167);
+    color: rgb(204, 215, 224);
 }
 span {
     color: rgb(122, 14, 14);
 }
 u {
-    color: #205ea5;
+    color: #4098fc;
+    text-decoration-style: double;
 }
-span#spa {
+span.m {
     color: #963f1db2;
 }
-span#sp {
+span#p {
     color: #dea9ff;
+}
+span.v {
+    color: rgb(80, 187, 80);
+}
+span.a {
+    color: #1f84f8;
 }
