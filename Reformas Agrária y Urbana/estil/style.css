@@ -20,7 +20,7 @@ section {
 }
 h1 {
     font-size: 1.8em;
-    color: rgb(89, 202, 89);
+    color: rgb(80, 187, 80);
     text-align: center;
 }
 p {
@@ -28,8 +28,11 @@ p {
     color: rgb(197, 179, 167);
 }
 span {
-    color: rgb(128, 13, 13);
+    color: rgb(122, 14, 14);
 }
 u {
-    color: rgb(36, 36, 146);
+    color: #205ea5;
+}
+span#spa {
+    color: #963f1db2;
 }
