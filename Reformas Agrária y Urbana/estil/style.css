@@ -1,6 +1,6 @@
 @charset "UTF-8";
 html {
-    background-color: rgb(196, 168, 133);
+    background-color: rgb(222, 200, 177);
     font-family: Arial, Helvetica, sans-serif;
 }
 div {
@@ -9,7 +9,7 @@ div {
 }
 section {
     width: 900px;
-    background-color: rgb(105, 103, 103);
+    background-color: rgb(134, 134, 134);
     justify-content: center;
     margin: auto;
     margin-top: 20px;
@@ -26,15 +26,15 @@ img.rau {
 }
 h1 {
     font-size: 1.8em;
-    color: rgb(80, 187, 80);
+    color: rgb(15, 116, 15);
     text-align: center;
 }
 h2 {
-    color: rgb(26, 105, 26);
+    color: rgb(14, 85, 14);
     text-align: center;
 }
 h3 {
-    color: rgb(26, 105, 26);
+    color: rgb(14, 88, 14);
     text-align: center;
 }
 p {
@@ -42,21 +42,21 @@ p {
     color: rgb(204, 215, 224);
 }
 span {
-    color: rgb(122, 14, 14);
+    color: rgb(150, 16, 16);
 }
 u {
-    color: #4098fc;
+    color: #0e5eb9;
     text-decoration-style: double;
 }
 span.m {
-    color: #963f1db2;
+    color: #772403c5;
 }
 span#p {
     color: #dea9ff;
 }
 span.v {
-    color: rgb(80, 187, 80);
+    color: rgb(22, 87, 22);
 }
 span.a {
-    color: #1f84f8;
+    color: #0e5eb9;
 }
