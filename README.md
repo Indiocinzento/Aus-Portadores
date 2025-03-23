@@ -43,7 +43,7 @@
 <!-- EXPLICA O MOTIVO DO PROJETO -->
 Aus 🐕🐕🐕 Portadores 👈é😺1👉 projetu 👈criadu😸por👉 Indiocinzento 🎶
 
-Nossu😼desafio proposto 👈p/😺este👉 projetu 👈é😼u👉 desenvolvimentu 👈d👉 nossa conexão📶orgânica📶horizontal😸biocrata 🎵 Neste😺projetu 👈temus😸u👉 desenvolvimentu 👈d😸nossa👉 pp😽comunicação 👈y👉 expressandu 👈nossa👉 conexão➖orgânica🛜vertical😸educrata 👈na👉 linguagem👅biorupestre 🎶
+Nossu😼desafio proposto 👈p/😺este👉 projetu 👈é😼u👉 desenvolvimentu 👈d👉 nossa conexão📶orgânica📶horizontal😸biocrata 🎵 Neste😺sentidu 👈temus😸u👉 desenvolvimentu 👈d😸nossa👉 pp😽comunicação 👈expressandu😺nossa👉 conexão➖orgânica🛜vertical😸educrata 👈nesta👉 linguagem👅biorupestre 🎶
 
 <!-- LINHA DE DIVISÃO: -->
 ---
@@ -54,8 +54,8 @@ Nossu😼desafio proposto 👈p/😺este👉 projetu 👈é😼u👉 desenvolvim
 ## ⚙️ Funcionalidades
 
 <!-- EXEMPLO DE FUNCIONALIDADES: -->
-- [x] comunicação😺direta aus 🐕🐕🐕 portadores 👈atiçandu👉 processamentus🩲nus 👈perceptus👉 individual🧠mente 👈c/👉 + 👈ou👉 - 👈d😼5👉 sentidus 
-- [x] comunicar😺projetus 👈incrementandu😼nossa👉 conexão📶horizontal📶biocrata 👈y👉 intensificar 👈sua👉 conexão➖vertical🛜educrata 👈p/👉 trocas🎭♻🎭culturais
+- [x] comunicação😺direta aus 🐕🐕🐕 portadores 👈atiçandu👉 processamentus🩲nus 👈perceptus👉 individual🧠mente😺portador 👈receptor😺c/👉 + 👈ou👉 - 👈dus😼5👉 sentidus 
+- [x] comunicar😺projetus 👈incrementandu😼nossa👉 conexão📶horizontal📶biocrata 👈y👉 intensificar 👈individual🧠mente😺nossa👉 conexão➖vertical🛜educrata 👈p/👉 trocas🎭♻🎭culturais 🎭♻🎭 biocratas📶conexão📶horizontal
 - [x] U Poema 📝 Au 🐕 Portador funciona 👈comu👉 dinheiru 👈y👉 ação au 🐕 mm ⌛ tempo 👈c/👉 diferenci🐕au 👈d👉 poder 👈ser👉 trocadu 👈por😼outros👉 poemas 👈y😼o👉 mercadorias 👈ou😼ainda👉 pagar💸contas 
 
 ---
@@ -66,17 +66,31 @@ Nossu😼desafio proposto 👈p/😺este👉 projetu 👈é😼u👉 desenvolvim
 ## 🎨 Layout
 
 ### Widget
-
 <!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
-![Mobile1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/mobile01.png)<br>
-![Mobile2](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/mobile02.png)<br>
-![Mobile3](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/mobile03.png)
+<ul>
+	<li>[Angélica😺Weiler] 👈😼👉 (https://github.com/angelicaweiler)</li>
+	<li>[Rafaella😺Bellerini] (https://github.com/rafaballerini)</li>
+	<li>[Ai'miau 👈q😺delícia👉 kara] 👈😼👉 (https://github.com/alfredojunior)</li>
+	<li>[Larissa😺Kich] (https://github.com/Larissakich)</li>
+	<li>[Gustavo😺Guanabara] 👈😼👉 (https://github.com/gustavoguanabara)</li>
+	<li>[Mari😺Souza] 👈😼👉 (https://github.com/mari4souza)</li>
+	<li>[Matheus😺Alvarez] 👈😼👉 (https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/desk03.png)</li>	
+</ul>
 
 ### Widget em uma página externa
-
-![Web1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/desk01.png)
-![Web1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/desk02.png)
-![Web1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/desk03.png)
+<ul>
+	<li>[Fábio 👈Dos👉 Reis] 👈😼👉 (https://www.bosontreinamentos.com.br/)</li>
+	<li>[Márcia😽Kambeba] 👈😼👉 (https://pt.wikipedia.org/wiki/M%C3%A1rcia_Kambeba)</li>
+	<li>[Instituto😺Nicolelis] 👈😼👉 (https://www.nicolelisinstitute.com.br)</li>
+	<li>[Escola😺Nômade] 👈😼👉 (https://escolanomade.org)</li>
+	<li>[Daniel😺Munduruku] 👈😼👉 (https://danielmunduruku.blogspot.com)</li>
+	<li>[Matheus😺Passos] 👈😼👉 (https://profmatheus.com/)</li>
+	<li>[Marilena😺Chauí] 👈😼👉 (https://curadoria.casadosaber.com.br/professores)
+	<li>[Ekipe😺Moreira] 👈😼👉 (https://edumoreira.com.br)</li>
+	<li>[Nov'😺Acrópole] 👈😼👉 (https://nova-acropole.org.br)</li>
+	<li>[Hércules😺Santiago] 👈😼👉 (https://mestresdainformatica.com.br)</li>
+	<li>[Diolinux] 👈😼👉 (https://diolinux.com.br)</li>
+</ul>
 
 ---
 
@@ -85,19 +99,24 @@ Nossu😼desafio proposto 👈p/😺este👉 projetu 👈é😼u👉 desenvolvim
 <!-- MODELO DE COMO EXECUTAR O PROJETO -->
 ## 🚀 Como 👈executar😼u👉 projetu
 
-1 - Escreva 📝 teu 📝 poema <br>
-2 - Cobran' 👈du👉 Galípolo 🐔 casa 👈da👉 moeda 👈y👉 centrus🎭♻🎭culturais🏦bancu 👈du👉 Brasil 👈em😼kda👉 estadu <br>
-3 - Impressão 👈du👉 Poema 📝 Au 🐕 Portador nu🩲papel📝moeda 👈c/👉 marcad'água 👈d👉 impressão <br>
-
+<ul>
+	<li>Escreva 📝 teu 📝 poema 🎶</li>
+	<li>Cobran' 👈du👉 BC 🐓 Galípolo 🐔 casa 👈da👉 moeda 👈y👉 centrus🎭♻🎭culturais🏦bancu 👈du👉 Brasil 👈em😼kda👉 estadu🙆🙅🙋brasileiro🎶</li>
+	<li>Impressão 👈du👉 Poema 📝 Au 🐕 Portador nu🩲papel📝moeda 👈c/👉 mark d'água 👈d👉 impressão 🎶</li>
+	<li></li>
+</ul>
 
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO DE PRÉ REQUISITOS -->
 ### Pré-requisitos
 
-1 - Abstenções eleitorau republicana <br>
-2 - Revogações dus votos das eleições anteriores <br>
-3 - Covocação constituinte popular <br>
+<ul>
+	<li>Abstenções 💪😼👉 eleitorais🍊🍊🍊republicanas 🎶</li>
+	<li>Revogações 👈dus👉 votos 👈das👉 eleições🤡👿👹😈👺anteriores 👈retomandu😼sua👉 representatividade 🎶</li>
+	<li>Covocação 💪😼👉 Constituinte🌲📝🌲Popular 🎶</li>
+	<li></li>
+</ul>
 
 ---
 
@@ -106,7 +125,7 @@ Nossu😼desafio proposto 👈p/😺este👉 projetu 👈é😼u👉 desenvolvim
 <!-- MODELO DE TECNOLOGIAS -->
 ## 🛠 Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes ferramentas foram usadas na construção du projetu:
 
 #### **Front-End**  ([ReactJS](https://reactjs.org/)) 
 
@@ -125,7 +144,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 💪 Como😼contribuir 👈p/😼u👉 projeto
 
 1. Faça 1 **fork** 👈du👉 projeto.
-2. Crie 1(a) nova branch c/ as suas alterações: `git checkout -b my-feature`
+2. Crie 1(a) nova branch 👈c/👉 as suas alterações: `git checkout -b my-feature`
 3. Salve 👈as👉 alterações 👈y👉 crie 1(a) mensagem 👈d👉 commit contando 👈u😼q👉 vc fez: `git commit -m "feature: My new feature"`
 4. Envie 👈as😼suas👉 alterações: `git push origin my-feature`
 > Caso tenha alguma dúvida confira este [guia d como contribuir nu GitHub](./CONTRIBUTING.md)
@@ -137,11 +156,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <!-- MODELO DE AUTOR-->
 ## 😼 Au🐕tor
 
+Saiba 👈onde👉 começou 
 <a href="https://folhadtrigo.blogspot.com">
-Indiocinzento</a>
+Indiocinzento</a> 👈à👉 digitar
  <br />
- 
-[![Gmail Badge]()](mailto:mthalvarez2005@gmail.com)
 
 ---
 
@@ -150,7 +168,7 @@ Indiocinzento</a>
 <!-- MODELO DE LICENÇA -->
 ## 📝 Licença
 
-Este projeto esta sobe a licença [GNU](./LICENSE).
+Este😼projeto 👈esta😼sobe👉 a😼licença 🎶
 
-Feito 👈por👉 Indiocinzento👋🏽 [Entre 👈em👉 contato!](https://folhadtrigo.blogspot.com)
+Feita 👈por👉 Indiocinzento👋🏽 [Entre 👈em👉 contato] 👈😼👉 (indiocinzento@gmail.com)
 
