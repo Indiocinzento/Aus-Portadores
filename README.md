@@ -143,7 +143,7 @@ As seguintes ferramentas foram usadas na construção du projetu:
 
 1. Faça 1 **fork** 👈du👉 projeto.
 2. Crie 1(a) nova branch 👈c/👉 as suas alterações: `git checkout -b my-feature`
-3. Salve 👈as👉 alterações 👈y👉 crie 1(a) mensagem 👈d👉 commit contando 👈u😼q👉 vc fez: `git commit -m "feature: My new feature"`
+3. Salve 👈as👉 alterações 👈y👉 crie 1(a) mensagem 👈d👉 commit🤣contandu 👈u😼q👉 vc🙀fez: `git commit -m "feature: My new feature"`
 4. Envie 👈as😼suas👉 alterações: `git push origin my-feature`
 
 ---
