@@ -112,8 +112,8 @@ Nossu😼desafio proposto 👈p/😺este👉 projetu 👈é😼u👉 desenvolvim
 
 <ul>
 	<li>Abstenções 💪😼👉 eleitorais🍊🍊🍊republicanas 🎶</li>
-	<li>Revogações 👈dus👉 votos 👈das👉 eleições🤡👿👹😈👺anteriores 👈retomandu😼sua👉 representatividade 🎶</li>
-	<li>Covocação 💪😼👉 Constituinte🌲📝🌲Popular 🎶</li>
+	<li>Revogações 👈dus👉 votos 👈das👉 eleições🤡👿👹😈👺anteriores 👈retomandu😼sua👉 representatividade 🙏juntu🙏 aus 🐕🐕🐕 TREs 👈y👉 TSE 🎶</li>
+	<li>Convocação 💪😼👉 Constituinte🌲📝🌲Popular 🎶</li>
 </ul>
 
 ---
