@@ -29,9 +29,9 @@
 ## 📄 Descrição 👈du👉 entregável
 
 <!-- EXEMPLO DE DESCRIÇÃO DE UM PROJETO: -->
-- Widget (Pasta 👈q👉 armazena 👈apenas😼u👉 widget)
+- [Idealismu😼Fisiológico] 👈😼👉 (https://indiocinzento.github.io/Idealismu-Fisiologico/)
 
-- ExternalPage (Widget em uma página externa)
+- [Reformas] 👈😼👉 (https://indiocinzento.github.io/Reformas/)
 
 ---
 
@@ -65,7 +65,7 @@ Nossu😼desafio proposto 👈p/😺este👉 projetu 👈é😼u👉 desenvolvim
 <!-- EXEMPLO DE LAYOUT: -->
 ## 🎨 Layout
 
-### Widget
+### Widget😼Inter🩲nu
 <!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
 <ul>
 	<li>[Angélica😺Weiler] 👈😼👉 (https://github.com/angelicaweiler)</li>
@@ -77,7 +77,7 @@ Nossu😼desafio proposto 👈p/😺este👉 projetu 👈é😼u👉 desenvolvim
 	<li>[Matheus😺Alvarez] 👈😼👉 (https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/desk03.png)</li>	
 </ul>
 
-### Widget em uma página externa
+### Widget😼Exter🩲nu
 <ul>
 	<li>[Fábio 👈Dos👉 Reis] 👈😼👉 (https://www.bosontreinamentos.com.br/)</li>
 	<li>[Márcia😽Kambeba] 👈😼👉 (https://pt.wikipedia.org/wiki/M%C3%A1rcia_Kambeba)</li>
@@ -103,7 +103,6 @@ Nossu😼desafio proposto 👈p/😺este👉 projetu 👈é😼u👉 desenvolvim
 	<li>Escreva 📝 teu 📝 poema 🎶</li>
 	<li>Cobran' 👈du👉 BC 🐓 Galípolo 🐔 casa 👈da👉 moeda 👈y👉 centrus🎭♻🎭culturais🏦bancu 👈du👉 Brasil 👈em😼kda👉 estadu🙆🙅🙋brasileiro🎶</li>
 	<li>Impressão 👈du👉 Poema 📝 Au 🐕 Portador nu🩲papel📝moeda 👈c/👉 mark d'água 👈d👉 impressão 🎶</li>
-	<li></li>
 </ul>
 
 <!-- ---------------------------------------------------------------------- -->
@@ -115,7 +114,6 @@ Nossu😼desafio proposto 👈p/😺este👉 projetu 👈é😼u👉 desenvolvim
 	<li>Abstenções 💪😼👉 eleitorais🍊🍊🍊republicanas 🎶</li>
 	<li>Revogações 👈dus👉 votos 👈das👉 eleições🤡👿👹😈👺anteriores 👈retomandu😼sua👉 representatividade 🎶</li>
 	<li>Covocação 💪😼👉 Constituinte🌲📝🌲Popular 🎶</li>
-	<li></li>
 </ul>
 
 ---
@@ -147,7 +145,6 @@ As seguintes ferramentas foram usadas na construção du projetu:
 2. Crie 1(a) nova branch 👈c/👉 as suas alterações: `git checkout -b my-feature`
 3. Salve 👈as👉 alterações 👈y👉 crie 1(a) mensagem 👈d👉 commit contando 👈u😼q👉 vc fez: `git commit -m "feature: My new feature"`
 4. Envie 👈as😼suas👉 alterações: `git push origin my-feature`
-> Caso tenha alguma dúvida confira este [guia d como contribuir nu GitHub](./CONTRIBUTING.md)
 
 ---
 
@@ -156,9 +153,8 @@ As seguintes ferramentas foram usadas na construção du projetu:
 <!-- MODELO DE AUTOR-->
 ## 😼 Au🐕tor
 
-Saiba 👈onde👉 começou 
-<a href="https://folhadtrigo.blogspot.com">
-Indiocinzento</a> 👈à👉 digitar
+Saiba 👈onde👉 Indiocinzento
+<a href="https://folhadtrigo.blogspot.com">começou</a> 👈à👉 digitar 🎶
  <br />
 
 ---
