@@ -3,18 +3,10 @@
  	MOSTRANDO PASSO-A-PASSO DE COMO
   	UTILIZAR ESSA DESCRIÇÃO
  
--->
-
-<!-- MODELO PROJETO EM ANDAMENTO -->
-<h1 align="center"> 
-	🚧 Aus 🐕🐕🐕 Portadores - Em contrução 🚧
-</h1>
-
-<!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO PROJETO FINALIZADO -->
 <h1 align="center"> 
-	  🚀✅ {Nome do repositório} - Concluído ✅🚀
+	  🚀✅ Aus 🐕🐕🐕 Portadores - Concluído ✅🚀
 </h1>
 
 <!-- ---------------------------------------------------------------------- -->
@@ -46,12 +38,12 @@
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO DESCRIÇÃO SOBRE O PROJETO: -->
-## 💻 Sobre 👈u👉 projeto
+## 💻 Sobre 👈u👉 projetu
 
 <!-- EXPLICA O MOTIVO DO PROJETO -->
-Aus 🐕🐕🐕 Portadores é um projeto criado por Indiocinzento ...
+Aus 🐕🐕🐕 Portadores 👈é😺1👉 projetu 👈criadu😸por👉 Indiocinzento 🎶
 
-O desafio proposto p/ este projeto era a criação {EXPLICAR}. Neste projeto, teríamos {EXPLICAR}
+Nossu😼desafio proposto 👈p/😺este👉 projetu 👈é😼u👉 desenvolvimentu 👈d👉 nossa conexão📶orgânica📶horizontal😸biocrata 🎵 Neste😺projetu 👈temus😸u👉 desenvolvimentu 👈d😸nossa👉 pp😽comunicação 👈y👉 expressandu 👈nossa👉 conexão➖orgânica🛜vertical😸educrata 👈na👉 linguagem👅biorupestre 🎶
 
 <!-- LINHA DE DIVISÃO: -->
 ---
@@ -62,8 +54,9 @@ O desafio proposto p/ este projeto era a criação {EXPLICAR}. Neste projeto, te
 ## ⚙️ Funcionalidades
 
 <!-- EXEMPLO DE FUNCIONALIDADES: -->
-- [x] Se o usuário não enviar mensagens dentro de 1 minuto o chat deve responder uma mensagem automaticamente.
-- [x] Se o usuário ficar inativo por 3 minutos o chat se encerra
+- [x] comunicação😺direta aus 🐕🐕🐕 portadores 👈atiçandu👉 processamentus🩲nus 👈perceptus👉 individual🧠mente 👈c/👉 + 👈ou👉 - 👈d😼5👉 sentidus 
+- [x] comunicar😺projetus 👈incrementandu😼nossa👉 conexão📶horizontal📶biocrata 👈y👉 intensificar 👈sua👉 conexão➖vertical🛜educrata 👈p/👉 trocas🎭♻🎭culturais
+- [x] U Poema 📝 Au 🐕 Portador funciona 👈comu👉 dinheiru 👈y👉 ação au 🐕 mm ⌛ tempo 👈c/👉 diferenci🐕au 👈d👉 poder 👈ser👉 trocadu 👈por😼outros👉 poemas 👈y😼o👉 mercadorias 👈ou😼ainda👉 pagar💸contas 
 
 ---
 
@@ -90,20 +83,21 @@ O desafio proposto p/ este projeto era a criação {EXPLICAR}. Neste projeto, te
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO DE COMO EXECUTAR O PROJETO -->
-## 🚀 Como 👈executar😼u👉 projeto
+## 🚀 Como 👈executar😼u👉 projetu
 
-1 - Baixar o Projeto <br>
-2 - Instalar a pasta node_modules (npm install)<br>
-3 - Rodar o projeto (npm start)
+1 - Escreva 📝 teu 📝 poema <br>
+2 - Cobran' 👈du👉 Galípolo 🐔 casa 👈da👉 moeda 👈y👉 centrus🎭♻🎭culturais🏦bancu 👈du👉 Brasil 👈em😼kda👉 estadu <br>
+3 - Impressão 👈du👉 Poema 📝 Au 🐕 Portador nu🩲papel📝moeda 👈c/👉 marcad'água 👈d👉 impressão <br>
+
 
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO DE PRÉ REQUISITOS -->
 ### Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+1 - Abstenções eleitorau republicana <br>
+2 - Revogações dus votos das eleições anteriores <br>
+3 - Covocação constituinte popular <br>
 
 ---
 
@@ -141,13 +135,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO DE AUTOR-->
-## 🦸 Au🐕tor
+## 😼 Au🐕tor
 
 <a href="https://folhadtrigo.blogspot.com">
 Indiocinzento</a>
  <br />
  
-[![Gmail Badge](https://img.shields.io/badge/-mthalvarez2005@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mthalvarez2005@gmail.com)](mailto:mthalvarez2005@gmail.com)
+[![Gmail Badge]()](mailto:mthalvarez2005@gmail.com)
 
 ---
 
