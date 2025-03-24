@@ -114,8 +114,8 @@ Nossu😼desafio proposto 👈p/😺este👉 projetu 👈é😼u👉 desenvolvim
 	<li>Abstenções 💪😼👉 eleitorais🍊🍊🍊republicanas 🎶</li>
 	<li>Revogações 👈dus👉 votos 👈das👉 eleições🤡👿👹😈👺anteriores 👈retomandu😼sua👉 representatividade 🙏juntu🙏 aus 🐕🐕🐕 TREs 👈y👉 TSE 🎶</li>
 	<li>Convocação 💪😼👉 Constituinte🌲📝🌲Popular 🎶</li>
-	<li>Desenvolver 👈sua👉 Educracia 👈c/👉 morau 👈y👉 ética😼Biocrata</li>
-	<li>Exercer 👈sua👉 Cidadania🌲♻🌲Socioambiental</li>
+	<li>Desenvolver 👈sua👉 Educracia 👈c/👉 mor🐕au 👈y👉 ética😼Biocrata 🎶</li>
+	<li>Exercer 👈sua👉 Cidadania🌲♻🌲Socioambiental 🎶</li>
 </ul>
 
 ---
