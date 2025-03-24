@@ -13,7 +13,7 @@
 
 <!-- MODELO MENU DE NAVEGAÇÃO -->
 <p align="center">
- <a href="#-Descrição-do-entregável">Descrição 👈du👉 Entregável</a> •
+ <a href="#-Descrição-do-entregável">Descrição 👈dus👉 poemas 📝📝📝 entregadus</a> •
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> • 
@@ -26,7 +26,7 @@
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO DE DESCRIÇÃO -->
-## 📄 Descrição 👈du👉 entregável
+## 📄 Descrição 👈dus👉 poemas 📝📝📝 entregadus
 
 <!-- EXEMPLO DE DESCRIÇÃO DE UM PROJETO: -->
 - [Idealismu😼Fisiológico] 👈😼👉 (https://indiocinzento.github.io/Idealismu-Fisiologico/)
