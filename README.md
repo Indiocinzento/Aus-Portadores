@@ -82,12 +82,15 @@ Nossu😼desafio proposto 👈p/😺este👉 projetu 👈é😼u👉 desenvolvim
 	<li>[Fábio 👈Dos👉 Reis] 👈😼👉 (https://www.bosontreinamentos.com.br/)</li>
 	<li>[Márcia😽Kambeba] 👈😼👉 (https://pt.wikipedia.org/wiki/M%C3%A1rcia_Kambeba)</li>
 	<li>[Instituto😺Nicolelis] 👈😼👉 (https://www.nicolelisinstitute.com.br)</li>
+	<li>[Brasil😺Escola] 👈😼👉 (https://brasilescola.uol.com.br/)</li>
 	<li>[Escola😺Nômade] 👈😼👉 (https://escolanomade.org)</li>
 	<li>[Daniel😺Munduruku] 👈😼👉 (https://danielmunduruku.blogspot.com)</li>
 	<li>[Matheus😺Passos] 👈😼👉 (https://profmatheus.com/)</li>
 	<li>[Marilena😺Chauí] 👈😼👉 (https://curadoria.casadosaber.com.br/professores)
 	<li>[Ekipe😺Moreira] 👈😼👉 (https://edumoreira.com.br)</li>
+	<li>[Clube 👈du👉 Noslen] 👈😼👉 (https://clubedonoslen.com.br)</li>
 	<li>[Nov'😺Acrópole] 👈😼👉 (https://nova-acropole.org.br)</li>
+	<li>[Caveira💀Tech] 👈😼👉 (https://caveiratech.com)</li>
 	<li>[Hércules😺Santiago] 👈😼👉 (https://mestresdainformatica.com.br)</li>
 	<li>[Diolinux] 👈😼👉 (https://diolinux.com.br)</li>
 </ul>
