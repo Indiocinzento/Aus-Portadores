@@ -57,7 +57,7 @@ Nossu😼desafio proposto 👈p/😺este👉 projetu 👈é😼u👉 desenvolvim
 - [x] comunicação😺direta aus 🐕🐕🐕 portadores 👈atiçandu👉 processamentus🩲nus 👈perceptus👉 individual🧠mente😺portador 👈receptor😺c/👉 + 👈ou👉 - 👈dus😼5👉 sentidus 👀 👂 👃 👅 👄 funcionandu 
 - [x] comunicar😺projetus 👈incrementandu😼nossa👉 conexão📶horizontal📶biocrata 👈y👉 intensificar 👈individual🧠mente😺nossa👉 conexão➖vertical🛜educrata 👈p/👉 trocas🎭♻🎭culturais 🎭♻🎭 biocratas📶conexão📶horizontal
 - [x] U Poema 📝 Au 🐕 Portador funciona 👈comu👉 dinheiru 👈y👉 ação au 🐕 mm ⌛ tempo 👈c/👉 diferenci🐕au 👈d👉 poder 👈ser👉 trocadu 👈por😼outros👉 poemas 👈y😼o👉 mercadorias 👈ou😼ainda👉 pagar💸contas 
-- [x] Há 👈versão👉 digital 👈p/😼u👉 desensolvimentu 👈da😺nossa👉 tecnologia😸biológica 👈miau😼dizendu👉 biotecnologia 👈c/👉 cripto🤖poema
+- [x] Há 👈versão👉 digital 👈p/😼u👉 desensolvimentu 👈da😺nossa👉 tecnologia 👈d😸interatividade👉 biológica 👈miau😼dizendu👉 biotecnologia 👈é😸nossu👉 cripto🤖poema
 ---
 
 <!-- ---------------------------------------------------------------------- -->
