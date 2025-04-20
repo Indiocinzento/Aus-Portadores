@@ -34,6 +34,8 @@
 - [Reformas] 👈😼👉 (https://indiocinzento.github.io/Reformas/)
 - [Descuidus] 👈😼👉 (https://indiocinzento.github.io/Descuidus/)
 - [Poematiza🐕cao] 👈😼👉 (https://indiocinzento.github.io/Poematizacao/)
+- [Folclores] 👈😼👉 (https://indiocinzento.github.io/Folclores/)
+- [Au🐕portador] 👈😼👉 (https://indiocinzento.github.io/Auportador/)
 ---
 
 <!-- ---------------------------------------------------------------------- -->
