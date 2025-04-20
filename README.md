@@ -33,7 +33,7 @@
 - [Idealismu😼Fisiológico] 👈😼👉 (https://indiocinzento.github.io/Idealismu-Fisiologico/)
 - [Reformas] 👈😼👉 (https://indiocinzento.github.io/Reformas/)
 - [Descuidus] 👈😼👉 (https://indiocinzento.github.io/Descuidus/)
-- [Poematizacao] 👈😼👉 (https://indiocinzento.github.io/Poematizacao/)
+- [Poematiza🐕cao] 👈😼👉 (https://indiocinzento.github.io/Poematizacao/)
 ---
 
 <!-- ---------------------------------------------------------------------- -->
