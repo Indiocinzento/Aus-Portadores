@@ -30,6 +30,7 @@
 
 <!-- EXEMPLO DE DESCRIÇÃO DE UM PROJETO: -->
 - [Poematese] 👈😼👉 (https://indiocinzento.github.io/Poematese/)
+- [VicesVersus] 👈😼👉 (https://indiocinzento.github.io/VicesVersus/)
 - [Idealismu😼Fisiológico] 👈😼👉 (https://indiocinzento.github.io/Idealismu-Fisiologico/)
 - [Reformas] 👈😼👉 (https://indiocinzento.github.io/Reformas/)
 - [Descuidus] 👈😼👉 (https://indiocinzento.github.io/Descuidus/)
