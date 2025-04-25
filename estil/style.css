@@ -2,5 +2,6 @@
 * {background-color: rgb(228, 206, 178); font-family: Arial, Helvetica, sans-serif;}
 h1, h2 {text-align: center; color: darkgreen;}
 div {width: 400px; background-color: darkseagreen; margin: auto;}
+nav {display: flex; justify-content:center;}
 p {font-size: 1.3em;}
 p#github {text-align: center; color: darkgreen:}
