@@ -37,6 +37,8 @@
 - [Poematiza🐕cao] 👈😼👉 (https://indiocinzento.github.io/Poematizacao/)
 - [Folclores] 👈😼👉 (https://indiocinzento.github.io/Folclores/)
 - [Au🐕portador] 👈😼👉 (https://indiocinzento.github.io/Auportador/)
+- [Kriptopoema] 👈😼👉 (https://indiocinzento.github.io/Kriptopoema/)
+- [Poéticação] 👈😼👉 (https://indiocinzento.github.io/Poeticacao/)
 - [Iniciativas] 👈😼👉 (https://indiocinzento.github.io/Iniciativas/)
 - [Peskizoanálise] 👈😼👉 (https://indiocinzento.github.io/Peskizoanalise/)
 ---
