@@ -179,5 +179,5 @@ Saiba 👈onde👉 Indiocinzento
 
 Este😼projeto 👈esta😼sobe👉 a😼licença 🎶
 
-Feita 👈por👉 Indiocinzento👋🏽 [Entre 👈em👉 contato] 👈😼👉 (indiocinzento@tutamail.com)
+Feita 👈por👉 Indiocinzento👋🏽 [Entre 👈em👉 contato] 👈😼👉 (indiocinzento@mail.com)
 
