@@ -82,6 +82,8 @@ Nossu😼desafio proposto 👈p/😺este👉 projetu 👈é😼u👉 desenvolvim
 	<li>[Larissa😺Kich] (https://github.com/Larissakich)</li>
 	<li>[Gustavo😺Guanabara] 👈😼👉 (https://github.com/gustavoguanabara)</li>
 	<li>[Mari😺Souza] 👈😼👉 (https://github.com/mari4souza)</li>
+	<li>[Dev😺Dojo] 👈😼👉 (https://github.com/devdojobr/maratona-java-virado-no-jiraya)</li>	
+	<li>[Fessor😺Bruno] 👈😼👉 (https://github.com/cfbcursos)</li>	
 	<li>[Matheus😺Alvarez] 👈😼👉 (https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/desk03.png)</li>	
 </ul>
 
