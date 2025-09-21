@@ -103,6 +103,7 @@ Nossu😼desafio proposto 👈p/😺este👉 projetu 👈é😼u👉 desenvolvim
 	<li>[Caveira💀Tech] 👈😼👉 (https://caveiratech.com)</li>
 	<li>[Hércules😺Santiago] 👈😼👉 (https://mestresdainformatica.com.br)</li>
 	<li>[Diolinux] 👈😼👉 (https://diolinux.com.br)</li>
+	<li>[Fessor😺Bruno] 👈😼👉 (https://www.cursa.com.br)</li>
 </ul>
 
 ---
@@ -181,5 +182,5 @@ Saiba 👈onde👉 Indiocinzento
 
 Este😼projeto 👈esta😼sobe👉 a😼licença 🎶
 
-Feita 👈por👉 Indiocinzento👋🏽 [Entre 👈em👉 contato] 👈😼👉 (indiocinzento@mail.com)
+Feita 👈por👉 Indiocinzento👋🏽 [Entre 👈em👉 contato] 👈😼👉 (indiocinzento@zohomail.com)
 
